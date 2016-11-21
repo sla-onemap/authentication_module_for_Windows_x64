@@ -9,23 +9,25 @@ How do I run this go application?
 Just evoke the auth executable(.exe) from your window OS. As requested, the program will return you with a valid access token.
 
 Important : 
-- Please keep the application in the folder called 'authentication_module'.
--Please retain credentials.txt & authstore.txt
+- Please keep the application in the folder called 'authentication_module'
+
+- Please retain credentials.txt & authstore.txt
 
 Before evoking...
 
-									1.Change your "credentials.txt" with your registered email and password
+1.Change your "credentials.txt" with your registered email and password.
 
-									![Step 1](https://github-images.onemap.sg/credsfile.PNG)
+![Step 1](https://github-images.onemap.sg/credsfile.PNG)
 
-									2.Click on your executable file for your access token. This is an example of a return.
+2.Click on your executable file for your access token. This is an example of a return.
 
-									![Step 2](https://github-images.onemap.sg/generatetoken.PNG)
+![Step 2](https://github-images.onemap.sg/generatetoken.PNG)
 
 									
-									This is an example of using an unauthorized credentials
 
-									![Bad Credentials](https://github-images.onemap.sg/Bad_credentials.PNG)
+This is an example of using an unauthorized credentials,
+
+![Bad Credentials](https://github-images.onemap.sg/Bad_credentials.PNG)
 
 
 ## Motivation
